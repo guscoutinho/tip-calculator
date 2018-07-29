@@ -6,26 +6,6 @@ Submitted by: Gustavo Coutinho
 
 Time spent: 6 hours spent in total
 
-## User Stories
-
-The following **required** functionality is complete:
-
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-
-The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
-* [x] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
--I mainly worked on improving UI experience. Most of my time was dedicated on animations. I adopted a minimalist design: when the user opens the app, he only notices the $ symbol. As he engages with the app, the rest of the application's features become visible.
--Added black and gold UI design.
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
